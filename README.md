@@ -27,8 +27,8 @@ It is developed using HTML, CSS and Java Script for front end, PHP for scripting
 3. For Pharmacist Login, refer to the 'emplogin' table in the database. 
     Example:
     ```
-    Username: varshini
-	Password: pass7
+    Username: daniel
+	Password: pass3
     ```
 # By Harsha D and Hemanth Kumar M
 
